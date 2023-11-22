@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="favorite">#CE2020</color>
+    <color name="basefavorite">#A7A4A4</color>
+    <color name="basefavoritedark">#7E30D7</color>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+</resources>

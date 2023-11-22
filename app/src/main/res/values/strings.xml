@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="title_activity_detail">Github</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
